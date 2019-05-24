@@ -1,0 +1,10 @@
+C:\Users\axelr\Desktop\Fase 1\Fase 1\bin\Debug\Fase 1.exe
+C:\Users\axelr\Desktop\Fase 1\Fase 1\bin\Debug\Fase 1.pdb
+C:\Users\axelr\Desktop\Fase 1\Fase 1\obj\Debug\Fase 1.csprojAssemblyReference.cache
+C:\Users\axelr\Desktop\Fase 1\Fase 1\obj\Debug\Fase_1.CAPAPRESENTACION.Productos.resources
+C:\Users\axelr\Desktop\Fase 1\Fase 1\obj\Debug\Fase_1.Properties.Resources.resources
+C:\Users\axelr\Desktop\Fase 1\Fase 1\obj\Debug\Fase 1.csproj.GenerateResource.cache
+C:\Users\axelr\Desktop\Fase 1\Fase 1\obj\Debug\Fase 1.csproj.CoreCompileInputs.cache
+C:\Users\axelr\Desktop\Fase 1\Fase 1\obj\Debug\Fase 1.exe
+C:\Users\axelr\Desktop\Fase 1\Fase 1\obj\Debug\Fase 1.pdb
+C:\Users\axelr\Desktop\Fase 1\Fase 1\obj\Debug\Fase_1.CAPAPRESENTACION.MantenimientoProd.resources
